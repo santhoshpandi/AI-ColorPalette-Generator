@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+button{
+  @apply cursor-pointer px-3 py-1 rounded-md duration-150 transition-all
+}
+
+input{
+  @apply p-3 rounded-md
+}
